@@ -66,8 +66,12 @@ img {
 --d: -101%;
 }
 
-.about-section {
-  margin: 2rem 5rem;
+.about-section, .portfolio-section {
+  margin: 4rem 5rem;
+}
+
+.portfolio-div {
+  margin: 3rem 0;
 }
 
 .project-div {
@@ -166,6 +170,14 @@ img {
 
   .about-section {
     margin: 2rem 3rem;
+  }
+
+  .portfolio-section {
+    margin: 2rem 0;
+  }
+
+  .portfolio-p {
+    margin: 0 2rem 3rem;
   }
 
   .projects-section {
