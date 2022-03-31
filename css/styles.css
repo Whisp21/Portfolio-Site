@@ -66,12 +66,16 @@ img {
 --d: -101%;
 }
 
-.about-section, .portfolio-section {
+.about-section {
+  margin: 4rem 5.5rem;
+}
+
+.portfolio-section {
   margin: 4rem 5rem;
 }
 
 .portfolio-div {
-  margin: 3rem 0;
+  margin: 1rem 0;
 }
 
 .project-div {
@@ -88,7 +92,7 @@ img {
 }
 
 .contact-section {
-  margin: 4rem;
+  margin: 5.5rem;
 }
 
 .form-group {
@@ -169,11 +173,12 @@ img {
   }
 
   .about-section {
-    margin: 2rem 3rem;
+    margin: 2rem auto;
+    padding: 0 2rem;
   }
 
   .portfolio-section {
-    margin: 2rem 0;
+    margin: 2rem auto;
   }
 
   .portfolio-p {
@@ -181,7 +186,8 @@ img {
   }
 
   .projects-section {
-    margin: 2rem 3rem;
+    margin: 2rem auto;
+    padding: 0 2rem;
   }
 
   .project-div {
@@ -190,7 +196,8 @@ img {
   }
 
   .contact-section {
-    margin: 2rem;
+    margin: 2rem auto;
+    padding: 0 2rem;
   }
 
   .form-group {
